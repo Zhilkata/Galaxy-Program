@@ -17,7 +17,7 @@ namespace GalaxyProgram
             var planetDictionary = new Dictionary<string, List<Planet>>();
             var moonDictionary = new Dictionary<string, List<Moon>>();
             
-            var testGalaxy = new Galaxy("Milky way", "elliptical", "13.2B");
+            /*var testGalaxy = new Galaxy("Milky way", "elliptical", "13.2B");
             galaxyList.Add(testGalaxy);
             starDictionary.Add(testGalaxy.Name, new List<Star>());
             
@@ -38,7 +38,7 @@ namespace GalaxyProgram
             var testPlanet = new Planet("Earth", "terrestrial", "yes");
             planetList.Add(testPlanet);
             planetDictionary[testStar.Name].Add(testPlanet);
-            moonDictionary.Add(testPlanet.Name, new List<Moon>());
+            moonDictionary.Add(testPlanet.Name, new List<Moon>());*/
             
             while (true)
             {
